@@ -11,11 +11,6 @@
     <li>👀 Focused on making automation scripts for Luau.</li>
 </ul></h4> 
 
-<div align="right">
-	<a href="https://discord.com/users/825730224875372574" target="_blank">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/discord-827th92xaqo9x60z70d8.png/discord-3laxilfyqm52ssh24sv4oe.png?_a=DATAg1AAZAA0" height="20" alt="linkedin logo"  /></a>
-</div>
-
 <br clear="both">
 
 <h2 align="left">I Know:</h2>
@@ -35,7 +30,11 @@
   <img alt="mongodb logo" height="50" src="https://img.shields.io/badge/MONGODB-4faa41?style=flat&logo=mongodb&logoColor=white" />
 </div>
 
-
+<div align="right">
+	<h5>Socials: </h5>
+	<a href="https://discord.com/users/825730224875372574" target="_blank">
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/discord-827th92xaqo9x60z70d8.png/discord-3laxilfyqm52ssh24sv4oe.png?_a=DATAg1AAZAA0" height="20" alt="discord logo"  /></a>
+</div>
 <!---
 Mocha1530/Mocha1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
