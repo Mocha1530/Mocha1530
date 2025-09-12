@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I’m Mocha</h1>
+<h6 align="center"><em>Or Gremory/Yohan</em></h6>
+###
 
 <h4 align="left"><ul>
   <li>🌱 I make silly feline themed discord bots.</li>
@@ -15,7 +17,6 @@
 <br clear="both">
 
 <h2 align="left">Currently Learning:</h2>
-
 <div align="center">
   <img alt="lua logo" height="50" src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="nextjs logo" height="50" src="https://img.shields.io/badge/NEXT-101010?style=for-the-badge&logo=next.js&logoColor=white" />
