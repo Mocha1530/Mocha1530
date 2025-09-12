@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m @Mocha1530</h1>
+<h1 align="center">Hi, I’m Mocha</h1>
 
 <h4 align="left"><ul>
   <li>🌱 I make silly feline themed discord bots.</li>
