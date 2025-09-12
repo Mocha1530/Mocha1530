@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I’m @Mocha1530</h1>
 
-<h6 align="left"> - 🌱 I make silly feline theme discord bots</h6>
-<h6 align="left"> - 👀 Focused on making automation scripts for Luau</h6>
+<h6 align="left"> 
+  - 🌱 I make silly feline theme discord bots
+  - 👀 Focused on making automation scripts for Luau</h6>
 
 <h2 align="left">I Know:</h2>
 <div align="center">
