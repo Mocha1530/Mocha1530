@@ -36,8 +36,8 @@
 <div class="bS1YbN_f868b47b56a17c140676 oRm1Zb_8cadb2f2abb9edb616fd">
 	<style>
                                     .oRm1Zb_8cadb2f2abb9edb616fd svg {
-                                        color: #98B6D1!important;
-                                        filter: none!important
+                                        color: #98B6D1;
+                                        filter: none
                                     }</style>
 	<a target="_blank" href="https://discord.com/users/825730224875372574">
     	<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="1.96 4.26 20.03 15.53">
