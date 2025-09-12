@@ -29,8 +29,8 @@
 </div>
 
 <div align="right">
-	<h5>Socials:<img width="5" /><a href="https://discord.com/users/825730224875372574" target="_blank">
-    <img align="center" alt="discord logo" height="20" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/discord-827th92xaqo9x60z70d8.png/discord-3laxilfyqm52ssh24sv4oe.png?_a=DATAg1AAZAA0"  /></a></h5>
+	<p>Socials:<img width="5" /><a href="https://discord.com/users/825730224875372574" target="_blank">
+    <img align="center" alt="discord logo" height="20" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/discord-827th92xaqo9x60z70d8.png/discord-3laxilfyqm52ssh24sv4oe.png?_a=DATAg1AAZAA0"  /></a></p>
 </div>
 <!---
 Mocha1530/Mocha1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
