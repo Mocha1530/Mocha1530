@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Lua, Next.js, Python
 
 <div align="left">
-  <img alt="lua logo" height="20" src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="lua logo" height="50" src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 
 
