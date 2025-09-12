@@ -17,6 +17,7 @@
   <img alt="lua logo" height="50" src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white" />
   <img alt="nextjs logo" height="50" src="https://img.shields.io/badge/NEXT.JS-101010?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="python logo" height="50" src="https://img.shields.io/badge/PYTHON-366d9c?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="mongodb logo" height="50" src="https://img.shields.io/badge/MONGODB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 
