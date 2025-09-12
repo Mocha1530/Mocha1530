@@ -11,8 +11,6 @@
     <li>👀 Focused on making automation scripts for Luau.</li>
 </ul></h4> 
 
-<br clear="both">
-
 <h2 align="left">I Know:</h2>
 <div align="center">
   <img alt="javascript logo" height="50" src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=flat&logo=javascript&logoColor=62502f" />
