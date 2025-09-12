@@ -2,6 +2,11 @@
 - 👀 I’m interested in Lua
 - 🌱 I’m currently learning Lua, Next.js, Python
 
+<div align="left">
+  <img alt="lua logo" height="20" src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white">
+</div>
+
+
 <!---
 Mocha1530/Mocha1530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
