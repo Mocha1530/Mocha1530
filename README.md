@@ -5,7 +5,7 @@
 <h2 align="left">I Know:</h2>
 <div align="center">
   <img alt="javascript logo" height="50" src="https://img.shields.io/badge/JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=62502f" />
-  <img alt="typescript Badge" height="50" "src="https://img.shields.io/badge/TYPESCRIPT-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="typescript logo" height="50" src="https://img.shields.io/badge/TYPESCRIPT-007acc?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="nodejs logo" height="50" src="https://img.shields.io/badge/NODE.JS-010101?style=for-the-badge&logo=node.js&logoColor=moss%20green" />
 </div>
 
