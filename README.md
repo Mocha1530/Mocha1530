@@ -1,12 +1,12 @@
 <h1 align="center">
   <img align="center" alt="rimuru" height="40" src="https://cdn.imgchest.com/files/c9db913dd0b2.png" />Hi, I’m Mocha<img align="center" alt="rimuru" height="40" src="https://cdn.imgchest.com/files/e16959643bc7.png" />
 </h1>
-<h6 align="center"><em>Or Gremory/Yohan</em></h6>
 
 ###
 
 <h4 align="left">
   <ul>
+	<li>❗ I also go by Gremory and Yohan</li> 
     <li>🌱 I make silly feline themed discord bots.</li>
     <li>👀 Focused on making automation scripts for Luau.</li>
 </ul></h4> 
