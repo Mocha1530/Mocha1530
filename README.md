@@ -7,7 +7,7 @@
 <h4 align="left">
   <ul>
 	<li>❗ I also go by Gremory and Yohan</li> 
-    <li>🌱 I make silly feline themed discord bots.</li>
+    <li>🌱 I make silly feline themed discord applications</li>
     <li>👀 Focused on making automation scripts for Luau.</li>
 </ul></h4> 
 
