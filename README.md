@@ -29,6 +29,8 @@
 	<img alt="expressjs logo" height="50" src="https://img.shields.io/badge/EXPRESS-010101?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
+<br clear="both">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocha1530&show_icons=true&locale=en&layout=compact" alt="mocha1530" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocha1530&" alt="mocha1530" /></p>
