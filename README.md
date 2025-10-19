@@ -29,6 +29,8 @@
 	<img alt="expressjs logo" height="50" src="https://img.shields.io/badge/EXPRESS-010101?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
+
 <div align="right">
 	<h5>Socials:<img width="5" /><a href="https://discord.com/users/825730224875372574" target="_blank">
     <img align="center" alt="discord logo" height="20" src="https://cdn.imgchest.com/files/aa36e3fc14b4.png"  /></a></h5>
