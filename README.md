@@ -6,9 +6,9 @@
 
 <h4 align="left">
 	<ul>
-		<li>❗ I also go by Gremory and Yohan</li>
-		<li>🌱 I make silly feline themed discord applications</li>
-		<li>👀 Focused on making automation scripts for Luau.</li>
+		<li>❗ I also go by Gremory and Yohan.</li>
+		<li>🌱 I make silly feline themed discord applications.</li>
+		<li>🔭 I’m currently working on [MeowhanAPI](https://github.com/Mocha1530/MeowhanAPI)</li>
 </ul></h4> 
 
 ###
