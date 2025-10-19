@@ -7,8 +7,8 @@
 <h4 align="left">
 	<ul>
 		<li>❗ I also go by Gremory and Yohan.</li>
-		<li>🌱 I make silly feline themed discord applications.</li>
-		<li>🔭 I’m currently working on <a href="https://github.com/Mocha1530/MeowhanAPI">MeowhanAPI</a></li>
+		<li>🌱 Check out my silly feline themed discord application <a href="https://top.gg/bot/1300746823488634900">here</a>.</li>
+		<li>🔭 I’m currently working on <a href="https://github.com/Mocha1530/MeowhanAPI">MeowhanAPI</a>.</li>
 </ul></h4>
 
 ###
