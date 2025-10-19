@@ -31,9 +31,11 @@
 
 <br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocha1530&show_icons=true&locale=en&layout=compact" alt="mocha1530" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocha1530&" alt="mocha1530" /></p>
+<div align="center">
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
+	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocha1530&show_icons=true&locale=en&layout=compact" alt="mocha1530" /></p>
+	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mocha1530&" alt="mocha1530" /></p>
+</div>
 
 <div align="right">
 	<h5>Socials:<img width="5" /><a href="https://discord.com/users/825730224875372574" target="_blank">
