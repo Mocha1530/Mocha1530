@@ -8,7 +8,7 @@
 	<ul>
 		<li>❗ I also go by Gremory and Yohan.</li>
 		<li>🌱 Check out my silly feline themed discord application <a href="https://top.gg/bot/1300746823488634900">here</a>.</li>
-		<li>🔭 I’m currently working on <a href="https://github.com/Mocha1530/MeowhanAPI">MeowhanAPI</a>.</li>
+		<li>🔭 I’m currently working on <a href="https://meowani.vercel.app">MeowAni</a>.</li>
 		<li>👤 Check my portfolio <a href="https://meowhan-portfolio.vercel.app/">here</a>.</li>
 </ul></h4>
 
