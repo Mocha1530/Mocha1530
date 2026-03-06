@@ -27,7 +27,7 @@
 	<img alt="nextjs logo" height="50" src="https://img.shields.io/badge/NEXT-101010?style=for-the-badge&logo=next.js&logoColor=white" />
 	<img alt="python logo" height="50" src="https://img.shields.io/badge/PYTHON-366d9c?style=for-the-badge&logo=python&logoColor=white" />
 	<img alt="expressjs logo" height="50" src="https://img.shields.io/badge/EXPRESS-010101?style=for-the-badge&logo=express&logoColor=white" />
-	<img alt="fastify logo" height="50" src="https://img.shields.io/badge/FASTIFY-FFFFFF?style=for-the-badge&logo=fastify&logoColor=%23000000&color=FFFFFF" />
+	<img alt="fastify logo" height="50" src="https://img.shields.io/badge/FASTIFY-000000?style=for-the-badge&logo=fastify" />
 </div>
 
 ###
