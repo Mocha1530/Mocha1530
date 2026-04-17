@@ -45,9 +45,9 @@
 
 ###
 
-<div style="display:flex;justify-content:space-between;">
-	<img src="https://komarev.com/ghpvc/?username=Mocha1530" alt="profile views" />
-	<h5>Socials:<img width="5" />
+<div>
+	<img src="https://komarev.com/ghpvc/?username=Mocha1530" alt="profile views" align="left" />
+	<h5 align="right">Socials:<img width="5" />
 		<a href="https://discord.com/users/825730224875372574" target="_blank">
     <img align="center" alt="discord logo" height="20" src="https://cdn.imgchest.com/files/aa36e3fc14b4.png"  />
 		</a>
