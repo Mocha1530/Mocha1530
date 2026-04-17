@@ -37,8 +37,6 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=Mocha1530)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocha1530&show_icons=true&locale=en&layout=compact" alt="mocha1530" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
@@ -47,7 +45,8 @@
 
 ###
 
-<div align="right">
+<div style="justify-content:space-between">
+	![](https://komarev.com/ghpvc/?username=Mocha1530)
 	<h5>Socials:<img width="5" />
 		<a href="https://discord.com/users/825730224875372574" target="_blank">
     <img align="center" alt="discord logo" height="20" src="https://cdn.imgchest.com/files/aa36e3fc14b4.png"  />
