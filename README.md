@@ -10,7 +10,8 @@
 		<li>🌱 Check out my silly feline themed discord application <a href="https://top.gg/bot/1300746823488634900">here</a>.</li>
 		<li>🔭 I’m currently working on <a href="https://alpha.meowani.site">MeowAni</a>(Still unstable).</li>
 		<li>👤 Check my portfolio <a href="https://www.meowhan.site/">here</a>.</li>
-</ul></h4>
+	</ul>
+</h4>
 
 ###
 
@@ -36,6 +37,8 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=Mocha1530)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mocha1530&show_icons=true&locale=en&layout=compact" alt="mocha1530" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mocha1530&show_icons=true&locale=en" alt="mocha1530" /></p>
@@ -45,8 +48,11 @@
 ###
 
 <div align="right">
-	<h5>Socials:<img width="5" /><a href="https://discord.com/users/825730224875372574" target="_blank">
-    <img align="center" alt="discord logo" height="20" src="https://cdn.imgchest.com/files/aa36e3fc14b4.png"  /></a></h5>
+	<h5>Socials:<img width="5" />
+		<a href="https://discord.com/users/825730224875372574" target="_blank">
+    <img align="center" alt="discord logo" height="20" src="https://cdn.imgchest.com/files/aa36e3fc14b4.png"  />
+		</a>
+	</h5>
 </div>
 
 <!---
