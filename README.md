@@ -8,7 +8,7 @@
 	<ul>
 		<li>❗ I go by Yohan.</li>
 		<li>🌱 Check out my silly feline themed discord application <a href="https://top.gg/bot/1300746823488634900">here</a>.</li>
-		<li>🔭 I’m currently working on <a href="https://alpha.meowani.site">MeowAni</a>(Still unstable).</li>
+		<li>🔭 I’m currently working on MeowAni.</li>
 		<li>👤 Check my portfolio <a href="https://www.meowhan.site/">here</a>.</li>
 	</ul>
 </h4>
